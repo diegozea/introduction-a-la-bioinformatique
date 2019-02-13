@@ -6,3 +6,4 @@
 !*.md
 !environment.yml
 !.gitignore
+!postBuild
