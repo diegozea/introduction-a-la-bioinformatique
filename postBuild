@@ -1,4 +1,0 @@
-#!/bin/bash
-
-wget -q -O GCA_000741095.1_Bifact_feature_table.txt.gz "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/741/095/GCA_000741095.1_Bifact/GCA_000741095.1_Bifact_feature_table.txt.gz"
-wget -q -O GCA_000741095.1_Bifact_feature_table.txt.gz "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/741/095/GCA_000741095.1_Bifact/GCA_000741095.1_Bifact_cds_from_genomic.fna.gz"
