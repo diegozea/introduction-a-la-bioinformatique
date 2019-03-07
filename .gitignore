@@ -8,3 +8,5 @@
 !.gitignore
 !postBuild
 !GCF*
+!BLOSUM62.txt
+!*.fasta
